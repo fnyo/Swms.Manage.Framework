@@ -1,0 +1,7 @@
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\obj\Debug\Swms.Manage.Framework.csprojAssemblyReference.cache
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\obj\Debug\Swms.Manage.Framework.csproj.CoreCompileInputs.cache
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\bin\Debug\Swms.Manage.Framework.exe.config
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\bin\Debug\Swms.Manage.Framework.exe
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\bin\Debug\Swms.Manage.Framework.pdb
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\obj\Debug\Swms.Manage.Framework.exe
+C:\Users\fangyao\source\repos\Swms.Manage.Framework\Swms.Manage.Framework\obj\Debug\Swms.Manage.Framework.pdb
